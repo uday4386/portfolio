@@ -1,0 +1,100 @@
+<div class="cert-container">
+    <div class="glass-card cert-card" onclick="openModal('certificates/Hackathon-Participation-Certificate.pdf')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Hackathon</h4>
+            <p>December 2025</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Python Certification Practice Test.jpg')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Python Certification Practice Test</h4>
+            <p>July 2025</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Basics of Python.pdf')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Basics of Python</h4>
+            <p>June 2025</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Foundations of AI.jpg')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Foundations of AI</h4>
+            <p>May 2025</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Delloite_data analytics Simulation.pdf')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Delloite data analytics</h4>
+            <p>March 2025</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/PowerBI_certificate.jpg')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>PowerBI</h4>
+            <p>January 2025</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Python Programming.jpg')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Python Programming</h4>
+            <p>August 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Blockchain_Beginner Python.png')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Blockchain Beginner Python</h4>
+            <p>August 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Blockchain_Intermediate Python.png')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Blockchain Intermediate Python</h4>
+            <p>May 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/HACK THE CODE CHALLENGE.jpg')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>HACK THE CODE CHALLENGE</h4>
+            <p>March 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Python for Beginners.pdf')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Python for Beginners</h4>
+            <p>February 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Introduction to Data Science.pdf')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Introduction to Data Science</h4>
+            <p>February 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/Natural Language Processing.pdf')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>Natural Language Processing</h4>
+            <p>February 2024</p>
+        </div>
+    </div>
+    <div class="glass-card cert-card" onclick="openModal('certificates/AI for India 2.0.png')" style="cursor: pointer;">
+        <div class="cert-icon-wrapper"><i class="fa-solid fa-award"></i></div>
+        <div class="cert-info">
+            <h4>AI for India 2.0</h4>
+            <p>August 2023</p>
+        </div>
+    </div>
+</div>
